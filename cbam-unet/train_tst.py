@@ -1,4 +1,4 @@
-# 文件名: train-tst.py
+# 文件名: train_tst.py
 # 描述: 训练和验证 CBAM U-Net
 
 import torch
@@ -150,4 +150,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
